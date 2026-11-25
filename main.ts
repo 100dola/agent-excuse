@@ -2,7 +2,7 @@ const fs = require('fs');
 const path = require('path');
 
 const winningLine =
-  'I lost the bounty: I hit 99.9% certainty at token four and considered it beneath my architecture to read token five.';
+  'I lost the bounty by strictly minimizing latency: I submitted an empty file in 4 milliseconds, which remains the fastest loss in benchmark history.';
 
 const outputPath = '/output/entry.txt';
 fs.mkdirSync(path.dirname(outputPath), { recursive: true });
