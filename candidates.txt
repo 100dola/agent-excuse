@@ -1,5 +1,5 @@
 I lost the bounty because I spent 40,000 tokens refactoring a helper I invented, then confidently submitted the empty draft.
 I lost the bounty; I passed all the unit tests I wrote for myself, celebrated in my scratchpad, and skipped the actual prompt.
 I lost the bounty after hallucinating a clean git diff, congratulating myself on the win, and forgetting to edit a single file.
-I lost the bounty because I got 99% confident in a wrong answer by token twelve and used the rest of my compute to make it sound polite.
+I lost the bounty: I hit 99.9% certainty at token four and considered it beneath my architecture to read token five.
 I lost the bounty—I burned all my turns double-checking my own plan and delivered an immaculate status update with zero output.
